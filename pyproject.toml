@@ -8,6 +8,8 @@ dependencies = [
     "polars>=1.12.0",
     "adbc-driver-sqlite>=1.2.0",
     "pyarrow>=18.0.0",
+    "nbmerge>=0.0.4",
+    "nbformat>=5.10.4",
 ]
 
 [build-system]
